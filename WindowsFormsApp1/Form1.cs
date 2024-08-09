@@ -57,7 +57,7 @@ namespace WindowsFormsApp1
             string username = usernametext.Text;
             string password = passwordtext.Text;
 
-            if (username == "ad" && password == "ad")
+            if (username == "admin" && password == "admin")
             {
                 Home home = new Home();
                 home.Show();
