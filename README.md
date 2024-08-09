@@ -29,16 +29,14 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pdntharusha/garage-management-system.git
+    git clone https://github.com/pdntharusha/Garage-Management-System.git
     ```
 
 2. Open the solution file (`.sln`) in Visual Studio.
 
-3. Configure the database connection in the `appsettings.json` file (if applicable).
+3. Build and run the project.
 
-4. Build and run the project.
-
-5. Username - admin , Password - admin
+4. Username - admin , Password - admin
 
 ## Usage 🖥️
 
